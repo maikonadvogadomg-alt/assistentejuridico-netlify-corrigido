@@ -1,0 +1,24 @@
+{
+  "titulo": "AssistenteJuridico-Netlify-Corrigido",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "auditoria.html",
+      "nome": "Multi-Projetos PWA — Maikon Caldeira",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Assistente IA Jurídico",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
